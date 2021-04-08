@@ -1,4 +1,4 @@
-# Hi 👋, I'm Artem
+# Hi 👋
 
 💻 **Technical Lead at Mail.ru Group**
 
