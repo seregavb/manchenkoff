@@ -21,7 +21,7 @@
 <p>
   <img 
        align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=manchenkoff&show_icons=true&locale=en&layout=compact" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=manchenkoff&show_icons=true&locale=en" 
        alt="manchenkoff" />
 </p>
 
