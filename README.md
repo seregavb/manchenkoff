@@ -1,5 +1,7 @@
 # Hi 👋
 
+## I'm Artyom
+
 💻 **Technical Lead at Mail.ru Group**
 
 ### Skills 😎
