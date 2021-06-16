@@ -2,7 +2,7 @@
 
 ### About
 
-- 💻 Technical Lead at Mail.ru Group
+- 💻 Team Lead at Mail.ru Group
 - 🧡 Open-source lover
 
 ### Skills 😎
