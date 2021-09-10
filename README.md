@@ -14,7 +14,7 @@
 
 ### Contacts 📬
 
-- E-mail: [artyom@manchenkoff.me](mailto:artyom@manchenkoff.me)
+- E-mail: [artem@manchenkoff.me](mailto:artem@manchenkoff.me)
 - Twitter: [AManchenkov](https://twitter.com/amanchenkov)
 - Facebook: [manchenkoff](https://fb.com/manchenkoff)
 - Linkedin: [manchenkoff](https://linkedin.com/in/manchenkoff)
