@@ -2,7 +2,7 @@
 
 ### About
 
-- 💻 Team Lead at Mail.ru Group
+- 💻 Software Engineer at Microsoft
 - 🧡 Open-source lover
 
 ### Skills 😎
